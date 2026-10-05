@@ -381,15 +381,6 @@ npm run preview  # Preview production build
 - Minimize re-renders
 - Use proper key props in lists
 
----
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Contact: [Your contact info]
-
----
 
 ## 🙏 Acknowledgments
 
